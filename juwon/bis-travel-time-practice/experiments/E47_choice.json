@@ -1,0 +1,12 @@
+{
+ "name": "3 seed 5개 (1a)",
+ "cfg": {
+  "obj": "l1",
+  "resid": false,
+  "seeds": 5,
+  "cb": false
+ },
+ "desc": "LightGBM L1 seed 5",
+ "예상": 25.214178978013614,
+ "E41 최종": 25.229332602633193
+}
